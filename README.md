@@ -1,5 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Freddy Zapata
 
+## 🎓 IT Engineer | PUCE - Ecuador
+Information Technology Engineer passionate about the convergence of Cybersecurity, Artificial Intelligence (AI), and IT Infrastructure. My goal is to design and implement high-performance systems with inherent security, from the network layer to the application logic.
+
+## 🧠 Focus Areas and Interest 
+```
+🔒 Cybsersecurity
+🌐 Networks
+🤖 Artificial Intelligence
+☁️ Infrastructure
+📡 Server Administration
+⚙️ Programming
+🖥️ Internet of Things (IoT)
+```
+My experience brings together these disciplines to create robust systems. I am driven by a constant pursuit of knowledge and the creative application of the latest technologies to address technical challenges with innovative and reliable solutions.
+
+---
+
+## 🚀 Projects 
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Identity Access Ecosystem with Facial Recognition](https://github.com/freddy-zapata/Face-Recognition)** | Prototipo de sistema de control de acceso basado en visión artificial. Utiliza un modelo de ML para autenticación sobre un ecosistema de hardware embebido. | `SVM` `HOG` `Raspberry Pi` `Python` `OpenCV` `IoT` |
+| **[Infra Cloud Automatizada](https://github.com/TuUsuario/NombreDelRepoCloud)** | Despliegue de un entorno de microservicios mediante IaC (Terraform) en AWS/GCP, enfocándose en la seguridad de red y la observabilidad. | `Terraform` `AWS` `Docker` `Kubernetes` `Python` |
 <!--
 **freddy-zapata/freddy-zapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
